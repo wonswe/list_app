@@ -8,4 +8,11 @@ body {
   background-color: white;
   color: black;
   margin: 100px auto;
+  border-radius: 5%;
+}
+
+.header {
+  text-align: center;
+  padding: 15px;
+  border-bottom: solid black 1px;
 }
