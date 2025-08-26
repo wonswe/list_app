@@ -9,10 +9,18 @@ body {
   color: black;
   margin: 100px auto;
   border-radius: 5%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .header {
   text-align: center;
   padding: 15px;
   border-bottom: solid black 1px;
+}
+
+.footer {
+  border-top: solid black 1px;
+  height: 50px;
 }
