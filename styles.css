@@ -28,9 +28,9 @@ body {
 }
 
 .item {
-  height: 30px;
+  height: 32px;
   border: solid 1px black;
-  font-size: 15px;
+  font-size: 20px;
 }
 
 .footer {
